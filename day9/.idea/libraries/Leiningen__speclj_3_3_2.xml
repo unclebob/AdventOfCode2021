@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: speclj:3.3.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/speclj/speclj/3.3.2/speclj-3.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
