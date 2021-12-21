@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: mmargs:1.2.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/mmargs/mmargs/1.2.0/mmargs-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
